@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1593609091 source:c:\users\juan de la canal\desktop\lab1 parcial\segundoparciallabi\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593609164 c:\users\juan de la canal\desktop\lab1 parcial\segundoparciallabi\linkedlist.h
+
+1593615286 source:c:\users\juan de la canal\desktop\lab1 parcial\segundoparciallabi\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Pais.h"
+
+1593614539 c:\users\juan de la canal\desktop\lab1 parcial\segundoparciallabi\pais.h
+	"LinkedList.h"
+
+1593614846 source:c:\users\juan de la canal\desktop\lab1 parcial\segundoparciallabi\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Pais.h"
+	"Controller.h"
+	"time.h"
+
+1593614539 c:\users\juan de la canal\desktop\lab1 parcial\segundoparciallabi\controller.h
+
+1593615138 source:c:\users\juan de la canal\desktop\lab1 parcial\segundoparciallabi\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pais.h"
+	<time.h>
+
